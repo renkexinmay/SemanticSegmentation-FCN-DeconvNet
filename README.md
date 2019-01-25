@@ -13,7 +13,7 @@ PASCAL VOC 2012 segmentation dataset (train + val)
 
 
 ##### Data Preprocessing:
-color map (3*224*224) --> one-hot class map (21 * 224 * 224)
+color map (3 * 224 * 224) --> one-hot class map (21 * 224 * 224)
 
 
 
