@@ -5,7 +5,7 @@ This is a Pytorch pratice for the course _Deep Learning Do It Yourself 2018/2019
 
 ## Run the model
 ```
-train.py --dataset_year --model --data --log --epochs --batch --load --check__every --save_every
+train.py --dataset_year --model --data --log --epochs --batch --load --check_every --save_every
 ```
 
 
