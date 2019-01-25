@@ -1,23 +1,22 @@
 ## Semantic Segmentation: a practice on Fully Convolutional Network (FCN) and Deconvelutional Network (DeconvNet)
 ### Project for course _Deep Learning Do It Yourself 2018/2019_ at ENS Paris
 
+### Pierre Jobic, Corentin Barloy and Kexin Ren
 
-#### Pierre Jobic, Corentin Barloy and Kexin Ren
 
-
-##### Data:
+#### Data:
 PASCAL VOC 2012 segmentation dataset (train + val)
 - training images = 1444
 - val images = 1464
 
 
 
-##### Data Preprocessing:
+#### Data Preprocessing:
 color map (3 * 224 * 224) --> one-hot class map (21 * 224 * 224)
 
 
 
-##### FCN training:
+#### FCN training:
 - Device: Google Colab w/ GPU
 - #epochs = 50; 100
 - Batch size = 64
@@ -28,7 +27,7 @@ color map (3 * 224 * 224) --> one-hot class map (21 * 224 * 224)
 
 
 
-##### FCN results:
+#### FCN results:
 in _results_ folder, there are 3 versions of FCN -
 - v1: lr = 0.0001, 50 epochs
 - v2: lr_scheduler(0.1, 15) (initial lr = 0.0001), 50 epochs
@@ -45,7 +44,7 @@ in _results_ folder, there are 3 versions of FCN -
 
 
 
-##### Reference:
+#### Reference:
 FCN: Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3431-3440).
 
 
