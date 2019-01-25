@@ -31,7 +31,7 @@ color map (3 * 224 * 224) --> one-hot class map (21 * 224 * 224)
 - Loss func =  CrossEntropyLoss
 - Pre-trained VGG (ILSVRC dataset)
 
-
+_Notebook can be found in `train.ipynb'_
 
 #### FCN results:
 in `results` folder, there are 3 versions of FCN -
