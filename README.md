@@ -1,4 +1,4 @@
-## Semantic Segmentation: a practice on Fully Convolutional Network (FCN) and Deconvelutional Network (DeconvNet)
+## Semantic Segmentation PyTorch Practice: Fully Convolutional Network (FCN) and Deconvelutional Network (DeconvNet)
 ### Project for course _Deep Learning Do It Yourself 2018/2019_ at ENS Paris
 
 ### Pierre Jobic, Corentin Barloy and Kexin Ren
