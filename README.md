@@ -4,7 +4,9 @@
 This is a Pytorch pratice for the course _Deep Learning Do It Yourself 2018/2019_ at ENS Paris
 
 ## Run the model
-arguements... to be added
+```
+train.py --dataset_year --model --data --log --epochs --batch --load --check__every --save_every
+```
 
 
 ## Description 
