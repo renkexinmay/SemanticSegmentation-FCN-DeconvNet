@@ -30,8 +30,11 @@ color map (3 * 224 * 224) --> one-hot class map (21 * 224 * 224)
 
 ##### FCN results:
 in _results_ folder, there are 3 versions of FCN -
+
 (1) lr = 0.0001, 50 epochs
+
 (2) lr_scheduler(0.1, 15) (initial lr = 0.0001), 50 epochs
+
 (3) lr_scheduler(0.1, 20) (initial lr = 0.0001), 100 epochs
 
 
