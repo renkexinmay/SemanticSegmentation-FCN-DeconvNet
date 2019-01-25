@@ -1,9 +1,13 @@
-## Semantic Segmentation PyTorch Practice: Fully Convolutional Network (FCN) and Deconvelutional Network (DeconvNet)
-### Project for course _Deep Learning Do It Yourself 2018/2019_ at ENS Paris
-
+# Semantic Segmentation PyTorch Practice: Fully Convolutional Network (FCN) and Deconvelutional Network (DeconvNet)
 ### Pierre Jobic, Corentin Barloy and Kexin Ren
 
+This is a Pytorch pratice for the course _Deep Learning Do It Yourself 2018/2019_ at ENS Paris
 
+## Run the model
+arguements... to be added
+
+
+## Description 
 #### Data:
 PASCAL VOC 2012 segmentation dataset (train + val)
 - training images = 1444
